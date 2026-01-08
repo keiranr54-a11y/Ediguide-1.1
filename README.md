@@ -1,1 +1,1 @@
-# Ediguide-1.1
+# Ediguide
